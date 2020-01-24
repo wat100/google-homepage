@@ -2,6 +2,30 @@
     display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 10%;  
-  margin-top: 300px;
+  width: auto;  
+  margin-top: 170px;
+}
+
+.searchbar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    width: 25%;
+}
+
+.searchbutton {
+    display: inline;
+    margin-left: 42%;
+    margin-right: auto;
+    margin-top: 42px;
+    height: 33px;
+    width: 7%;
+}
+
+.luckybutton {
+    margin-right: auto;
+    margin-top: 42px;
+    height: 33px;
+    width: 7%;
 }
