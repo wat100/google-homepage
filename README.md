@@ -1,0 +1,3 @@
+In this essay I will...
+
+but no seriously, I'm going to recreate the google homepage in all it's stateliness 
