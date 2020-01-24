@@ -79,3 +79,35 @@
     font-size: 13px;
     text-decoration: none;
 }
+
+.left {
+    float: left; 
+    list-style-type: none;
+    width: 150px;
+
+}
+
+li a{ 
+   list-style-type: none;
+   text-decoration: none;
+   padding: 4px 8px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 13px;
+}
+
+div {
+    bottom: 0;
+    height: 35px;
+    position: fixed;
+    width: 100%;
+}
+
+.right {
+    float: right; 
+    list-style-type: none;
+    width: 150px;
+}
+
+.longbottom {
+    background-color: gray;
+}
